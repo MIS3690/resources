@@ -49,7 +49,7 @@ Create a page called _sitemap.html_ (you can reuse the page you have already cre
    <!-- 5. In-Class Exercise 06 (and hyperlink it to _ex06.html_). -->
 4. Make sure that each of the hyperlinked documents has a hyperlink back to the sitemap page.
 5. Add a horizontal line below this list. 
-   - **Challanging version**: Add a horizontal line below this list **without using `<hr>` tag**.
+   - **Challenging version**: Add a horizontal line below this list **without using `<hr>` tag**.
 6. Add the image, [_home.jpg_](https://raw.githubusercontent.com/MIS3690/resources/master/templates/images/home.jpg), and hyperlink the image to _index.html_. The image file must be under _WebTech/images_ folder.
 
 
@@ -61,7 +61,7 @@ Style _sitemap.html_ using only **internal** CSS as follows:
 2. `<h1>` - any `serif` font, any dark color, and centered on the page.
 3. `<h3>` - any font of your choice, any color, size of 1.2em.
 4. The image must have a width of `50px`.
-5. **Challanging Question**: change color of horizontal line to any color of your choice.
+5. **Challenging Question**: change color of horizontal line to any color of your choice.
 
 ---
 ## Submission:
