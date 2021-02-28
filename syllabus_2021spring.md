@@ -105,7 +105,7 @@ There will be a total of 5-6 homework-assignments that are graded. Each is to be
 
 ## In-Class Exercises
 
-In almost every class we will be completing a few small hands-on exercises (usually labeled as “ex_” on the class slides). Some of you may complete these exercises in class, but, you do have until 11:59 pm the next calendar day (not the next class day) to complete it and sync it. Class Exercises will be graded as Submitted, Excused, or Not Submitted. If you miss a class, you will still need to finish the in-class exercise. There will be about 16 to 20 exercises in total - two excuses are allowed for the semester, with additional excuses at the discretion of the instructor.
+In almost every class we will be completing a few small hands-on exercises (usually labeled as “ex_” on the class slides). Some of you may complete these exercises in class, but, you do have until 6:00 pm the next calendar day (not the next class day) to complete it and sync it. Class Exercises will be graded as Submitted, Excused, or Not Submitted. If you miss a class, you will still need to finish the in-class exercise. There will be about 16 to 20 exercises in total - two excuses are allowed for the semester, with additional excuses at the discretion of the instructor.
 
 ## Examination
 
