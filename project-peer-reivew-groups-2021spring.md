@@ -1,5 +1,5 @@
 # Groups for Project Peer Review
-| Last                | First        | Project Repo                                           | domain                                       | Group |
+| Last Name           | First Name   | Project Repository Address                             | Website Address                              | Group |
 | ------------------- | ------------ | ------------------------------------------------------ | -------------------------------------------- | ----- |
 | Asuncion-Duong      | Aiden        | https://github.com/azn8n/Philipino_Food                | http://h2mfilipinofood.me/                   | 2     |
 | Fantappie           | Alexander    | https://github.com/fantappie/project                   | http://www.alexarmando.com/                  | 6     |
@@ -26,4 +26,4 @@
 | Levy                | Yael         | https://github.com/ylevy1/Project                      | http://madridabroad.me/                      | 5     |
 | Chen                | Zihou        | https://github.com/zchen6/project                      | http://www.zihou.studio/                     | 3     |
 
-*updated: 3/13/2021*
+*updated: 3/15/2021*
