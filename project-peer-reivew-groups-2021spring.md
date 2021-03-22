@@ -13,7 +13,7 @@
 | Farhat              | Julia        | https://github.com/juliafarhat/project                 | http://sprestaurants.me/             | 3     |
 | Tacir               | Kerim Tuncay | https://github.com/ktacir1/Project-1                   | http://www.my-obsession.com/         | 6     |
 | Hitchcock           | Logan        | https://github.com/lhitchcock1/project-repository      | http://workouttools.me/              | 2     |
-| Liu                 | Mengyu       | https://github.com/Mengyu-L/Project                    | http://www.lmyguzheng.xyz/           | 4     |
+| Liu                 | Mengyu       | https://github.com/Mengyu-L/Project                    | https://www.myguzh-eng.site          | 4     |
 | Paro                | Maddy        | https://github.com/mparo1/Project                      | https://broadway-from-home.com       | 4     |
 | Brown               | Noah         | https://github.com/noahbrown29/WebTech-Term-Project-NB | https://www.companiesofmusk.tech/    | 5     |
 | Hiller              | Nicole       | https://github.com/nhiller1/Project-Repository         | https://www.nbaero.live/             | 4     |
@@ -25,4 +25,4 @@
 | Levy                | Yael         | https://github.com/ylevy1/Project                      | http://madridabroad.me/              | 5     |
 | Chen                | Zihou        | https://github.com/zchen6/project                      | http://www.zihou.studio/             | 3     |
 
-*updated: 3/16/2021*
+*updated: 3/22/2021*
