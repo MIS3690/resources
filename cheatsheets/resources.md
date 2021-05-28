@@ -58,7 +58,8 @@ We will be working mostly with the [Chrome web browser](https://www.google.com/c
 - [Net Magazine](http://www.creativebloq.com/net-magazine)
 - [Learn to code | Codecademy](https://www.codecademy.com/)
 - [Learn by Doing - Code School](https://www.codeschool.com/)
-- [Stack Overflow](https://stackoverflow.com/)
+- [Stack Overflow](https://stackoverflow.com/)- 
+- [Learn CSS](https://web.dev/learn/css/)
 - [CSS-Tricks](https://css-tricks.com/)
 - [CSS Selectors Game](http://flukeout.github.io)
 - [CSS Reference - A free visual guide to CSS](https://cssreference.io/)
